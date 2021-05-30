@@ -30,4 +30,19 @@ public class Circulo {
 				return false;
 		}
 	}
+
+	/**
+	 * @return the rad
+	 */
+	public double getRad() {
+		return rad;
+	}
+
+	/**
+	 * @param rad the rad to set
+	 */
+	public void setRad(double rad) {
+		this.rad = rad;
+	}
+	
 }
